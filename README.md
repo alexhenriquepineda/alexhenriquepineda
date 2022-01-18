@@ -1,4 +1,4 @@
-## Hi there!! My name is Alex and I am a Data Science Intern at Natura &Co.
+## Olá!! Meu nome é Alex Henrique e eu sou Estagiário em Ciência de Dados na Natura &Co.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,8 +18,9 @@
   
 </div>
 
-Throughout my life I've always had a very close contact with technology, but in early 2021 I joined as an intern in the field of data science and fell in love.
-With that, I decided to dedicate my studies to solving business problems using data. With that, I've been developing different types of projects, to improve my knowledge in the data world.
+Eu iniciei minha carreira na área de Tecnologia no início do ano de 2020, quando fui aprovado no Vestibular da FATEC para o curso de Análise e Desenvolvimento de Sistemas.
+No início de 2021, fui aprovado no Programa de Estágio da Natura &Co e assumi o cargo de Estagiário em Ciência de Dados, e a partir desse momento me apaixonei pela área de dados.
+Comecei a desenvolver meu portfólio de projetos e com isso estou melhorando minhas habilidades no mundo do Machine Learning/Dados.
 
 **Data Science Tools:**
 
