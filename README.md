@@ -40,14 +40,6 @@ Comecei a desenvolver meu portfólio de projetos e com isso estou melhorando min
   * Deploy on Streamlit: https://analytics-houserocket-alx.herokuapp.com/
   * Repository: https://github.com/alexhenriquepineda/Data-Analysis-House-Rocket
 
-### [Rossmann Sales Regression - Temporal Regression Problem](https://github.com/alexhenriquepineda/Store-Sales-Prediction)
-  * Business Question: The CFO wants to renovate several stores and for that to happen, he needs to know how much each store will earn in the next 6 weeks.
-  * Resolution: A Logistics Regression was applied to predict how much revenue will be for each Rossmann store. After testing several Machine Learning algorithms, the algorithm that was selected was XGBoost. He was able to forecast the sales of the stores in the next 6 weeks, with this the CFO will have this tool available to assist in decision making.
-  * Repository: https://github.com/alexhenriquepineda/Store-Sales-Prediction
-  * Deploy on Heroku and Telegram:
-   <p align='center'>
-    <img src='images/telegram-bot.png', height=400<
-</p>
 
  ### [Health-Car Insurances Cross Sell - Ranking To Learn Problem ](https://github.com/alexhenriquepineda/Health-Insurance-Cross-Sell)
   * Business Question: Which are the best customers to be considered and how many of them should actually be included?
