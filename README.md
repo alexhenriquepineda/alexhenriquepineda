@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Alex Henrique e eu sou Estagiário em Ciência de Dados na Natura &Co.
+## Hello!! My name is Alex Henrique, and I am a Data Scientist at Bradesco Seguros.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,37 +18,21 @@
   
 </div>
 
-Eu iniciei minha carreira na área de Tecnologia no início do ano de 2020, quando fui aprovado no Vestibular da FATEC para o curso de Análise e Desenvolvimento de Sistemas.
-No início de 2021, fui aprovado no Programa de Estágio da Natura &Co e assumi o cargo de Estagiário em Ciência de Dados, e a partir desse momento me apaixonei pela área de dados.
-Comecei a desenvolver meu portfólio de projetos e com isso estou melhorando minhas habilidades no mundo do Machine Learning/Dados.
+I am a Data Scientist at Bradesco Seguros, one of the largest insurance companies in Brazil, where I apply my skills in machine learning, data analysis, and storytelling to create valuable solutions for the business. I joined the company in September 2022 to undergo a rigorous Data Science training program. This program challenged me to develop and deliver a predictive model aimed at increasing the company's revenue by approximately XX million and to provide various improvement solutions and tools for the department.
 
+Prior to this role, I was a Data Science Intern at Natura &Co, a significant cosmetics group, where I worked on various projects involving legacy models, sales tools, and customer lifecycle analysis. I utilized tools such as SQL, Python, Spark, SAS, Tableau, and PowerBI to execute, maintain, build, and develop data products that enhanced communication and performance for sales and marketing teams. I also built up my project portfolio on GitHub, showcasing my passion and curiosity for data.
+
+I graduated from FATEC in Systems Analysis and Development, where I learned the fundamentals of information technology and software development. Additionally, I completed various certifications in machine learning, recommendation systems, and data visualization, further enhancing my knowledge and skills in these areas
 **Data Science Tools:**
 
 * **Data Collect and Storage Modeling:** SQL.
-* **Data Manipulation and Data Integration:** Python, Pandas.
+* **Data Manipulation and Data Integration:** Python, Pandas, Spark, SAS.
 * **Static and Exploratory Data Analytics:** Numpy, Plotly.Express, Seaborn and Pyplot.
 * **Data Preparation and Feature Selection:** Scalers, Boruta, RFE.
 * **Machine Learning Modeling:** Logistic and Linear Regression, Clustering and Ranking to Learn.
 * **Data Visualization and Deploy:** Streamlit and Heroku.
 
 
-## Data Science Projects:
 
-### [House Prices Analytics - Analytics Problem](https://github.com/alexhenriquepineda/Data-Analysis-House-Rocket)
-  * Business Question: The CEO needs to visualize the data of all the houses that we have in the company's portfolio and, along with that, he must follow a very complete analysis of this data.
-  * Resolution: The project's main function is to bring a complete analysis of House Rocket's data, aiming to help the company's CEO to make the best decisions.
-  * Deploy on Streamlit: https://analytics-houserocket-alx.herokuapp.com/
-  * Repository: https://github.com/alexhenriquepineda/Data-Analysis-House-Rocket
-
-
- ### [Health-Car Insurances Cross Sell - Ranking To Learn Problem ](https://github.com/alexhenriquepineda/Health-Insurance-Cross-Sell)
-  * Business Question: Which are the best customers to be considered and how many of them should actually be included?
-  * Resolution: ongoing project
-  * Repository: https://github.com/alexhenriquepineda/Health-Insurance-Cross-Sell
-
- ### [Bank Marketing Strategy - Clustering Problem ](https://github.com/alexhenriquepineda/Bank-Marketing-Strategy)
-  * Business Question: Create customer segmentation to help the marketing team make decisions.
-  * Resolution: ongoing project
-  * Repository: https://github.com/alexhenriquepineda/Bank-Marketing-Strategy
 
 **Thank you for your attention, hope we find you out there!**
