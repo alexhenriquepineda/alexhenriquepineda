@@ -1,4 +1,4 @@
-## Hello!! My name is Alex Henrique, and I am a Data Scientist at Bradesco Seguros.
+## Hello!! My name is Alex Henrique, and I am a Senior Data Scientist at Bradesco Seguros.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,7 +18,7 @@
   
 </div>
 
-I am a Data Scientist at Bradesco Seguros, one of the largest insurance companies in Brazil, where I apply my skills in machine learning, data analysis, and storytelling to create valuable solutions for the business. I joined the company in September 2022 to undergo a rigorous Data Science training program. This program challenged me to develop and deliver a predictive model aimed at increasing the company's revenue by approximately XX million and to provide various improvement solutions and tools for the department.
+I am a Senior Data Scientist at Bradesco Seguros, one of the largest insurance companies in Brazil, where I apply my skills in machine learning, data analysis, and storytelling to create valuable solutions for the business. I joined the company in September 2022 to undergo a rigorous Data Science training program. This program challenged me to develop and deliver a predictive model aimed at increasing the company's revenue by approximately XX million and to provide various improvement solutions and tools for the department.
 
 Prior to this role, I was a Data Science Intern at Natura &Co, a significant cosmetics group, where I worked on various projects involving legacy models, sales tools, and customer lifecycle analysis. I utilized tools such as SQL, Python, Spark, SAS, Tableau, and PowerBI to execute, maintain, build, and develop data products that enhanced communication and performance for sales and marketing teams. I also built up my project portfolio on GitHub, showcasing my passion and curiosity for data.
 
