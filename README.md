@@ -26,7 +26,7 @@ I graduated from FATEC in Systems Analysis and Development, where I learned the 
 **Data Science Tools:**
 
 * **Data Collect and Storage Modeling:** SQL.
-* **Data Manipulation and Data Integration:** Python, Pandas, Spark, SAS.
+* **Data Manipulation and Data Integration:** Python, Pandas, Spark, SAS, Databricks.
 * **Static and Exploratory Data Analytics:** Numpy, Plotly.Express, Seaborn and Pyplot.
 * **Data Preparation and Feature Selection:** Scalers, Boruta, RFE.
 * **Machine Learning Modeling:** Logistic and Linear Regression, Clustering and Ranking to Learn.
